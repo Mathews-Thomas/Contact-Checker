@@ -1,0 +1,27 @@
+.App{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+input{
+
+  padding: 10px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin: 20px;
+}
